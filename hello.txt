@@ -18,4 +18,4 @@ hello miren! hello git!
 hello miren! hello git!
 hello miren! hello git!
 hello miren! hello git! master test
-hello miren! hello git!
+hello miren! hello git! hot-fix test
